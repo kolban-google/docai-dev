@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/docai-dev/static/css/main.e6c13ad2.css",
+    "main.js": "/docai-dev/static/js/main.ea96f019.js",
+    "index.html": "/docai-dev/index.html",
+    "main.e6c13ad2.css.map": "/docai-dev/static/css/main.e6c13ad2.css.map",
+    "main.ea96f019.js.map": "/docai-dev/static/js/main.ea96f019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ea96f019.js"
+  ]
+}
