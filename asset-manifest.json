@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/docai-dev/static/css/main.e6c13ad2.css",
-    "main.js": "/docai-dev/static/js/main.c3c9b01d.js",
+    "main.js": "/docai-dev/static/js/main.d009e03c.js",
     "index.html": "/docai-dev/index.html",
     "main.e6c13ad2.css.map": "/docai-dev/static/css/main.e6c13ad2.css.map",
-    "main.c3c9b01d.js.map": "/docai-dev/static/js/main.c3c9b01d.js.map"
+    "main.d009e03c.js.map": "/docai-dev/static/js/main.d009e03c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c3c9b01d.js"
+    "static/js/main.d009e03c.js"
   ]
 }
